@@ -19,8 +19,6 @@ analytics to support evidence-based road safety decision-making.
 - SAS Visual Data Mining & Machine Learning
 - SAS Visual Text Analytics
 
-## Project Structure
-
 ## Project Tasks
 ### Task 0 – Random Sampling
 - Selected a reproducible random sample of 3,500 observations using SAS Viya.
